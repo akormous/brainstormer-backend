@@ -1,2 +1,6 @@
-# brainstormer-rest-service
-REST API for Brainstormer application
+# Brainstormer backend
+
+Built with Java, Spring Boot.
+
+## API Specifications
+
